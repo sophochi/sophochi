@@ -1,23 +1,75 @@
-## Hey ⋆˚꩜｡
+<p align="left">yo ⋆˚꩜｡</p>
 
-Computer science student
+сomputer science student
 (๑>؂•̀๑)
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sophia-korolova-8a593934a) 
+###
 
-# 💻 Tech Stack:
-![](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=flat&logo=assemblyscript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13) ![Krita](https://img.shields.io/badge/Krita-203759?style=flat&logo=krita&logoColor=EEF37B) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=flat) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sophochi&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sophochi&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sophochi&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sophochi/sophochi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sophochi/sophochi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sophochi/sophochi/output/pacman-contribution-graph.svg">
+</picture>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sophochi&theme=transparent&no-frame=true&no-bg=true&margin-w=4)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=sophochi&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo"  />
+</div>
 
+###
 
+<div align="center">
+  <img height="220" src="https://i.pinimg.com/originals/1e/db/f1/1edbf144909f2bbfcff412393422984c.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sophochi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=sophochi&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=sophochi&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/sophochi/sophochi/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/sophoch">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=sophoch&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
