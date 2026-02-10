@@ -1,7 +1,4 @@
-<p align="left">yo ⋆˚꩜｡</p>
-
 сomputer science student
-(๑>؂•̀๑)
 
 
 ###
